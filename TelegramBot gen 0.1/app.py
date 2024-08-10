@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 from laprak import ralat_typ1, generate_variations_rk
 
-TOKEN: Final = "7199270076:AAElLVjPu1WpmpbAmpD6fnYd8Q_hN2XfXAg"
+TOKEN: Final = "***"
 BOT_USERNAME: Final = "@gmsawBot"
 
 # Define conversation states
