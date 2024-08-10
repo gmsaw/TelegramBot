@@ -11,7 +11,7 @@ from telegram.ext import (
 from laprak import ralat, generate_variations_rk
 from gendocx import *
 
-TOKEN: Final = "7199270076:AAElLVjPu1WpmpbAmpD6fnYd8Q_hN2XfXAg"
+TOKEN: Final = "***"
 BOT_USERNAME: Final = "@gmsawBot"
 
 # Define conversation states
